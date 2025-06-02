@@ -1,16 +1,18 @@
-## Hi there 👋
+ Studente di Informatica presso ITIS MAJO DI GRUGLIASCO  
+ Appassionato di Tecnologia, Coding e Sicurezza Informatica
+ 
+Chi sono?
 
-<!--
-**Presidente87/Presidente87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente appassionato di informatica e tecnologia.  
+Attualmente frequento l'Itis majo di grugliasco , dove sto costruendo le basi in:
 
-Here are some ideas to get you started:
+- Programmazione (C#, Python, HTML/CSS)
+- Sviluppo software (con WPF e Visual Studio
+Mi piace imparare facendo: ogni progetto scolastico è per me un’occasione per crescere e mettermi alla prova.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Competenze:
+
+- Linguaggi: C#, Python, HTML/CSS, JavaScript 
+- Strumenti: GitHub, Visual Studio, WPF, Deeds
+- Tecnologie: Raspberry Pi, Linux, reti locali
+  
