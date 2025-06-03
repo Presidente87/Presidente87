@@ -12,7 +12,7 @@ Mi piace imparare facendo: ogni progetto scolastico è per me un’occasione per
 
 Competenze:
 
-- Linguaggi: C#, Python, HTML/CSS, JavaScript 
+- Linguaggi: C#, Python, HTML/CSS, JavaScript(learning) 
 - Strumenti: GitHub, Visual Studio, WPF, Deeds
 - Tecnologie: Raspberry Pi, Linux, reti locali
   
