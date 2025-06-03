@@ -1,19 +1,14 @@
- Studente di Informatica presso ITIS MAJO DI GRUGLIASCO  
+ciao sono Preisdente 87( o Andrea Varricchio) e sono uno studente dell'itis Ettore majorana di Grugliasco
+
+## Studente di Informatica presso ITIS MAJO DI GRUGLIASCO  
  Appassionato di Tecnologia, Coding e Sicurezza Informatica
  
-## Chi sono?
-
-Sono uno studente appassionato di informatica e tecnologia.  
-Attualmente frequento l'Itis majo di grugliasco.
+## Chi sono:
+mi chiamo Andrea Varricchio  e Sono uno studente appassionato di informatica e tecnologia.  
+Attualmente frequento l'Itis Ettore majorana di Grugliasco.
 
 ## skill: 
 - Programmazione (C#, Python, HTML/CSS)
 - Sviluppo software (con WPF e Visual Studio
-Mi piace imparare facendo: ogni progetto scolastico è per me un’occasione per crescere e mettermi alla prova.
-
-## Competenze:
-
-- Linguaggi: C#, Python, HTML/CSS, JavaScript(learning) 
-- Strumenti: GitHub, Visual Studio, WPF, Deeds
-- Tecnologie: Raspberry Pi, Linux, reti locali
-  
+- Mi piace imparare facendo: ogni progetto scolastico è per me un’occasione per crescere e mettermi alla prova.
+- saper lavorare in gruppo
